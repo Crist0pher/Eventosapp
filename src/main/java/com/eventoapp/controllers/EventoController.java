@@ -75,7 +75,6 @@ public class EventoController {
 		Convidado convidado = cr.findByRg(rg);
 		cr.delete(convidado);
 		
-		
 		Evento evento = convidado.getEvento();
 		long codigoLong = evento.getCodigo();
 		String codigo = "" + codigoLong;
