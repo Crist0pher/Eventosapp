@@ -6,4 +6,4 @@ Link da playlist do curso: https://www.youtube.com/watch?v=OHn1jLHGptw&list=PL8i
 
 Link do app: 
 
-https://eventosappcrud.herokuapp.com/cadastrarEvento
+https://eventosappcrud.herokuapp.com/eventos
